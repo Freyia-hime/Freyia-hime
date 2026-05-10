@@ -52,6 +52,18 @@ bot と voice 周りのものを作るのも好き。
   </tr>
 </table>
 
+## 🍡 Little Notes
+
+<div align="center">
+
+| favorite | things |
+| --- | --- |
+| mood | anime, manga, cute stuff |
+| build | bots, voice, weird little ideas |
+| style | soft colors, late-night coding, character-driven projects |
+
+</div>
+
 ## 🧷 Stack
 
 <div align="center">
@@ -61,12 +73,12 @@ bot と voice 周りのものを作るのも好き。
 ## 📊 GitHub Corner
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Freyia-hime&theme=transparent" alt="GitHub profile summary" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Freyia-hime&show_icons=true&hide_border=true&count_private=true&bg_color=fff6fb&title_color=ff8fab&text_color=6d6a75&icon_color=7bdff2&border_radius=18&custom_title=Freyia%20Stats" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freyia-hime&layout=compact&hide_border=true&bg_color=effbff&title_color=ff8fab&text_color=6d6a75&border_radius=18" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Freyia-hime&theme=transparent" alt="Repos per language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Freyia-hime&theme=transparent" alt="Most commit language" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Freyia-hime&bg_color=fff8fc&color=7bdff2&line=ff8fab&point=ffb7d5&area=true&area_color=ffd9e8&hide_border=true&title_color=ff8fab" alt="Contribution graph" />
 </div>
 
 ## 🌐 Find Me
