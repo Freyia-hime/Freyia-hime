@@ -61,12 +61,12 @@ bot と voice 周りのものを作るのも好き。
 ## 📊 GitHub Corner
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Freyia-hime&theme=rose_pine" alt="GitHub profile summary" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Freyia-hime&theme=transparent" alt="GitHub profile summary" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Freyia-hime&theme=rose_pine" alt="Repos per language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Freyia-hime&theme=rose_pine" alt="Most commit language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Freyia-hime&theme=transparent" alt="Repos per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Freyia-hime&theme=transparent" alt="Most commit language" />
 </div>
 
 ## 🌐 Find Me
