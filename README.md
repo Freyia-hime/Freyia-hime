@@ -73,20 +73,12 @@ bot と voice 周りのものを作るのも好き。
 ## 📊 GitHub Corner
 
 <div align="center">
-
-| profile | focus |
-| --- | --- |
-| name | Freyia-hime / ❀フレイア❀ |
-| main projects | LiLiTH, LiLiTH Voice |
-| favorite stack | Unity, Bun, TypeScript, Python, C#, Rust |
-| current mood | cute, strange, late-night coding |
-
+  <img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Freyia-hime&theme=rose_pine" alt="GitHub profile summary" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/Freyia-hime?tab=repositories"><img src="https://img.shields.io/badge/Repos-View%20All-ffb7d5?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" /></a>
-  <a href="https://github.com/Freyia-hime?tab=stars"><img src="https://img.shields.io/badge/Stars-Collection-9adfff?style=for-the-badge&logo=github&logoColor=white" alt="Starred repositories" /></a>
-  <a href="https://github.com/Freyia-hime?tab=projects"><img src="https://img.shields.io/badge/Projects-Little%20Lab-ff9ebc?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Freyia-hime&theme=rose_pine" alt="Repos per language" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Freyia-hime&theme=rose_pine" alt="Most commit language" />
 </div>
 
 ## 🌐 Find Me
