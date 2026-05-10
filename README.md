@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:ffd2e3,45:ff9ebc,100:9adfff&text=%E3%83%95%E3%83%AC%E3%82%A4%E3%82%A2&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=42&desc=%E0%B8%96%E0%B9%89%E0%B8%B2%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%94%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89%20%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%9B%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%99&descAlignY=62&descSize=16" alt="Freyia profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:ffd2e3,45:ff9ebc,100:9adfff&text=%E2%9D%80%E3%83%95%E3%83%AC%E3%82%A4%E3%82%A2%E2%9D%80&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=36&desc=%E3%81%BE%E3%81%A0%E5%8B%95%E3%81%84%E3%81%A6%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AF%E3%80%81%E7%B5%B6%E5%AF%BE%E3%81%AB%E8%A7%A6%E3%82%8B%E3%81%AA%E3%80%82&descAlignY=54&descSize=16" alt="Freyia profile banner" />
 
 <div align="center">
 
@@ -22,10 +22,10 @@
 ```txt
 anime が好き。
 bot と voice 周りのものを作るのも好き。
-かわいいだけじゃなくて、少し変で少し尖ったものが好き。
+かわいいものも、少し変わったものも好き。
 ```
 
-- 💗 ชอบอนิเมะ มังงะ และอะไรที่มีความโมเอะปนความเท่
+- 💗 ชอบอนิเมะ มังงะ และอะไรที่น่ารัก ๆ
 - 🎧 สนใจงาน `voice ai`, `discord systems`, `realtime interaction`
 - 🌙 ชอบทำของที่ดูน่ารัก แต่ยังมี feeling แปลก ๆ แบบมี character
 - 🩵 日本語もちょっと好き。かわいい雰囲気のものが落ち着く
@@ -55,18 +55,18 @@ bot と voice 周りのものを作るのも好き。
 ## 🧷 Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=unity,rust,bun,ts,js,java,python,nodejs,go,cs,cpp,html,css,lua&theme=light" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=unity,rust,bun,ts,js,java,python,nodejs,go,cs,cpp,html,css,lua,php,react,nextjs,tailwind,docker&theme=light" alt="Skill icons" />
 </div>
 
 ## 📊 GitHub Corner
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Freyia-hime&theme=tokyonight" alt="GitHub profile summary" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Freyia-hime&theme=rose_pine" alt="GitHub profile summary" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Freyia-hime&theme=tokyonight" alt="Repos per language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Freyia-hime&theme=tokyonight" alt="Most commit language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Freyia-hime&theme=rose_pine" alt="Repos per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Freyia-hime&theme=rose_pine" alt="Most commit language" />
 </div>
 
 ## 🌐 Find Me
@@ -80,6 +80,6 @@ bot と voice 周りのものを作るのも好き。
 
 <div align="center">
 
-**ถ้าโค้ดมันยังใช้งานได้อยู่, อย่าไปยุ่งกับมันโดยเด็ดขาด**
+**まだ動いてるコードは、絶対に触るな。**
 
 </div>
