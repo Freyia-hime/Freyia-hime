@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ffb7d5,45:ff8fab,100:7bdff2&text=%E2%9D%80%E3%83%95%E3%83%AC%E3%82%A4%E3%82%A2%E2%9D%80&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38&desc=moonlit%20code%20atelier&descAlignY=58" alt="Freyia profile banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:ffd2e3,45:ff9ebc,100:9adfff&text=%E3%83%95%E3%83%AC%E3%82%A4%E3%82%A2&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=42&desc=%E0%B8%96%E0%B9%89%E0%B8%B2%E0%B9%82%E0%B8%84%E0%B9%89%E0%B8%94%E0%B8%A1%E0%B8%B1%E0%B8%99%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%84%E0%B8%94%E0%B9%89%20%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B9%84%E0%B8%9B%E0%B8%A2%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%A1%E0%B8%B1%E0%B8%99&descAlignY=62&descSize=16" alt="Freyia profile banner" />
 
 <div align="center">
 
@@ -80,6 +80,6 @@ bot と voice 周りのものを作るのも好き。
 
 <div align="center">
 
-**かわいい顔して、コードはちゃんと刺さる。**
+**ถ้าโค้ดมันยังใช้งานได้อยู่, อย่าไปยุ่งกับมันโดยเด็ดขาด**
 
 </div>
