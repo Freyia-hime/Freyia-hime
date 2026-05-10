@@ -1,19 +1,91 @@
-<h1 align="center">ยินดีที่ได้รู้จักน๊าาา 👋, เค้าชื่อ フレイア</h1>
-<h3 align="center">ไม่มีอะไรหรอก แค่ชอบอนิเมะ กับ อ่านมังงะเท่านั้นเอง</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ffb7d5,45:ff8fab,100:7bdff2&text=Freyia%20Hime&fontColor=ffffff&fontSize=54&animation=fadeIn&fontAlignY=38&desc=anime%20moe%20x%20cyber%20cute&descAlignY=58" alt="Freyia Hime banner" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=freyia-hime&label=Profile%20views&color=0e75b6&style=flat" alt="freyia-hime" /> </p>
+<div align="center">
 
-- 🔭 ดูแลเซิร์ฟเวอร์ Discord [💮👑ชมรมคนเหงา🎮💘](https://discord.gg/VFmds2G)
+### こんにちは, I am **❀フレイア❀**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+`cute code` • `voice ai` • `discord bot` • `vr vibes` • `anime energy`
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=freyia-hime&label=profile%20views&color=ff8fab&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/Freyia-hime?tab=followers"><img src="https://img.shields.io/github/followers/Freyia-hime?style=for-the-badge&color=7bdff2&labelColor=1f2335" alt="Followers" /></a>
+  <a href="https://discord.gg/VFmds2G"><img src="https://img.shields.io/badge/Discord-ชมรมคนเหงา-ffb7d5?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=freyia-hime&show_icons=true&locale=en&layout=compact" alt="freyia-hime" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freyia-hime&show_icons=true&locale=en" alt="freyia-hime" /></p>
+## 🌸 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freyia-hime&" alt="freyia-hime" /></p>
+```txt
+I build things that feel a little magical:
+AI companions, Discord bots, realtime voice tools,
+VR spaces, and weird/cute internet experiments.
+```
+
+- 💗 ชอบงานแนวอนิเมะ โมเอะ และอะไรที่ดูมีชีวิต
+- ⚡ กำลังเล่นกับ `TypeScript`, `Python`, `Java`, และ workflow ฝั่ง AI
+- 🎧 สนใจ `voice model`, `realtime interaction`, `Discord systems`
+- 🏠 แอบชอบโลกเสมือน, community tools, และ project ที่มี character ชัด
+
+## ✦ Current Vibe
+
+- Working on **AIRI**: self-hosted AI companion with realtime interaction
+- Building **LiLiTH**: Discord bot project with a distinct personality
+- Exploring **VR / voice / automation** projects that feel cute but powerful
+
+## 🩵 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>AIRI</h3>
+      <p>Self-hosted AI companion energy with voice, games, and a strong anime soul.</p>
+      <a href="https://github.com/Freyia-hime/airi">repo</a> •
+      <a href="https://airi.moeru.ai/docs/">docs</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>LiLiTH</h3>
+      <p>A Discord bot project with personality, presence, and cyber-girl mood.</p>
+      <a href="https://github.com/Freyia-hime/LiLiTH">repo</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>RealTimePlugin</h3>
+      <p>Minecraft support work and practical mod/plugin maintenance for newer versions.</p>
+      <a href="https://github.com/Freyia-hime/RealTimePlugin">repo</a>
+    </td>
+  </tr>
+</table>
+
+## 🧷 Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,git,linux,unity,arduino&theme=light" alt="Skill icons" />
+</div>
+
+## 📊 GitHub Aura
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=freyia-hime&show_icons=true&hide_border=true&title_color=ff8fab&text_color=f4f4f4&icon_color=7bdff2&bg_color=0d1117&ring_color=ff8fab" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freyia-hime&layout=compact&hide_border=true&title_color=7bdff2&text_color=f4f4f4&bg_color=0d1117" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=Freyia-hime&hide_border=true&background=0D1117&ring=FF8FAB&fire=FFB7D5&currStreakLabel=7BDFF2&sideLabels=F4F4F4&dates=9FB3C8&sideNums=F4F4F4&currStreakNum=FFFFFF" alt="GitHub streak" />
+</div>
+
+## 🌐 Find Me
+
+<div align="center">
+  <a href="https://github.com/Freyia-hime"><img src="https://img.shields.io/badge/GitHub-Freyia--hime-7bdff2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://discord.gg/VFmds2G"><img src="https://img.shields.io/badge/Discord-Join%20Server-ff8fab?style=for-the-badge&logo=discord&logoColor=white" alt="Discord server" /></a>
+</div>
+
+---
+
+<div align="center">
+
+**cute on the surface, dangerous in the terminal**
+
+</div>
