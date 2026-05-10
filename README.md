@@ -73,12 +73,20 @@ bot と voice 周りのものを作るのも好き。
 ## 📊 GitHub Corner
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Freyia-hime&show_icons=true&hide_border=true&count_private=true&bg_color=fff6fb&title_color=ff8fab&text_color=6d6a75&icon_color=7bdff2&border_radius=18&custom_title=Freyia%20Stats" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freyia-hime&layout=compact&hide_border=true&bg_color=effbff&title_color=ff8fab&text_color=6d6a75&border_radius=18" alt="Top languages" />
+
+| profile | focus |
+| --- | --- |
+| name | Freyia-hime / ❀フレイア❀ |
+| main projects | LiLiTH, LiLiTH Voice |
+| favorite stack | Unity, Bun, TypeScript, Python, C#, Rust |
+| current mood | cute, strange, late-night coding |
+
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Freyia-hime&bg_color=fff8fc&color=7bdff2&line=ff8fab&point=ffb7d5&area=true&area_color=ffd9e8&hide_border=true&title_color=ff8fab" alt="Contribution graph" />
+  <a href="https://github.com/Freyia-hime?tab=repositories"><img src="https://img.shields.io/badge/Repos-View%20All-ffb7d5?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" /></a>
+  <a href="https://github.com/Freyia-hime?tab=stars"><img src="https://img.shields.io/badge/Stars-Collection-9adfff?style=for-the-badge&logo=github&logoColor=white" alt="Starred repositories" /></a>
+  <a href="https://github.com/Freyia-hime?tab=projects"><img src="https://img.shields.io/badge/Projects-Little%20Lab-ff9ebc?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
 </div>
 
 ## 🌐 Find Me
